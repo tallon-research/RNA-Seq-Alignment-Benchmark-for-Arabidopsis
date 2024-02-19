@@ -1,0 +1,31 @@
+Total Read Bases	2082338400
+Total Junction Bases	1089903043
+Total Error Bases	6054067
+Total Deletion Bases	0
+Total Insertion Bases	0
+Actual=Prediction	Count
+M	1855824807
+X	2054523
+Prediction	Actual	Count
+M	X	3251649
+M	N	59421594
+M	*	54999250
+X	M	5484684
+X	N	85129926
+X	*	1542387
+I	N	10416796
+I	M	3977103
+I	X	8109
+I	*	217135
+*	N	896434734
+*	M	184243907
+*	X	659094
+D	N	4382245
+D	M	389231
+D	*	74487
+D	X	909
+N	*	34116139
+S	M	7621
+S	N	1609
+S	X	763
+S	*	444
